@@ -8,10 +8,23 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+
+      Medicine [Uses in Urdu](https://urdusehat.com/) are often focused on
+      educating the public about how to use medications safely and effectively.
+      It includes detailed information about the purpose of the medicine, dosage
+      instructions, possible side effects, and precautions to be taken before
+      using the medicine. These guidelines help people understand the importance
+      of following prescribed dosages and consulting a doctor before starting
+      any new medication. Additionally, it addresses common misconceptions about
+      over-the-counter drugs and the dangers of self-medication. The goal is to
+      promote responsible use of medicines and improve overall health outcomes
+      within the Urdu-speaking community.
+
+
+
+
     actions:
       - label: Get started
         altText: ''
