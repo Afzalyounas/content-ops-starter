@@ -46,7 +46,7 @@ sections:
         type: Link
     media:
       url: /images/ani-kolleshi-7jjnJ-QA9fY-unsplash (1).jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Uses in urdu
       elementId: ''
       type: ImageBlock
     badge:
