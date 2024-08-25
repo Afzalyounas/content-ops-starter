@@ -45,7 +45,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/ani-kolleshi-7jjnJ-QA9fY-unsplash (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
